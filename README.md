@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlcBrains. You can call me Chris, or Christopher. Or "HEY, YOU" (high school PTSD intensifies)
-- 👀 I’m interested in pretty much everything. Except maybe esoteric languages. Unless they're funny (like Rockstar)
-- 🌱 I am currently brushing up on my BASH/ZSH skills, with the idea of moving towards SRE oriented areas. I'm also doing some projects in C with the goal of contributing to Debian (or any open source OS for that matter)
-- 💞️ I’m looking to collaborate on environmental projects! Seriously, shoot me an email, we'll work something out!
+- 👋 Hi, I’m @AlcBrains. You can call me Chris, or Christopher.
+- 👀 I’m interested in pretty much everything. Except esoteric languages.
+- 🌱 I am currently passing time with python and some bash scripting to make my life easier.
+- 💞️ I’m looking to collaborate on environmental projects! Seriously, shoot me an email, we'll work something out :)
 - 📫 Always reachable via email at mai19025[at]uom[dot]edu[dot]gr
 
 <!---
