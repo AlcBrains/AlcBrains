@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AlcBrains. You can call me Chris, or Christopher.
 - 👀 I’m interested in pretty much everything. Except esoteric languages.
-- 🌱 I am currently passing time trying to convince myself to create a dumbphone OS just for the fun of it.
+- 🌱 I am currently passing time trying to convince myself to create a dumbphone OS just for the fun of it (I'm failing).
+      Some other days, apart from work I do small projects for friends, just for the fun of it. 
 - 📫 Always reachable via email at mai19025[at]uom[dot]edu[dot]gr
 
 <!---
